@@ -80,7 +80,7 @@ def add_passage(passage):
     pe.id(filepath)
     pe.title(passage)
     pe.description('Listen to ' + passage)
-    pe.enclosure(filepath, bytes_unicode, 'audio/mpeg')
+    pe.enclosure(DOMAIN + "/" + filepath, bytes_unicode, 'audio/mpeg')
 
     # Change directory to script install path
     install_path = os.getcwd()
