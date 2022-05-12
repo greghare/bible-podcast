@@ -11,6 +11,7 @@ from mutagen.mp3 import MP3
 import configparser
 import ftplib
 from datetime import datetime
+import pytz
 
 DOMAIN = 'https://greghare.me/bible-podcast'
 LOCAL_MEDIA_FOLDER = 'media'
@@ -48,6 +49,10 @@ pc.subtitle('A podcast feed updated daily with a new reading from the ESV Bible'
 pc.link( href='https://greghare.me/bible-podcast/feed.rss', rel='self' )
 pc.language('en')
 
+# Get current year
+curYear = datetime.now().strftime("%Y")
+local_tz = 'America/New_York'
+
 def download_passage(passage, filepath):
 
     # query configuration
@@ -65,7 +70,7 @@ def download_passage(passage, filepath):
 
     return filepath
 
-def add_passage(passage):
+def add_passage(passage, day):
 
     # Download audio passage
     filepath = LOCAL_MEDIA_FOLDER+'/'+passage+'.mp3'
@@ -75,12 +80,17 @@ def add_passage(passage):
     bytes = os.path.getsize(filepath)
     bytes_unicode = str(bytes).encode("utf-8").decode("utf-8")
 
+    # Get date for entry
+    entryDate = pytz.timezone(local_tz).localize(datetime.strptime(day + " " + curYear, '%B %d %Y')) # convert day to date object
+    #entryDate = entryDate.strftime('%a, %d %b %Y 00:00:00 EST') # format date
+
     # Add entry to podcast feed
     pe = pc.add_entry()
     pe.id(filepath)
     pe.title(passage)
     pe.description('Listen to ' + passage)
     pe.enclosure(DOMAIN + "/" + filepath, bytes_unicode, 'audio/mpeg')
+    pe.pubDate(entryDate)
 
     # Change directory to script install path
     install_path = os.getcwd()
@@ -131,11 +141,14 @@ def build_feed():
     # Add readings until just under 500 verses
     while verse_count <= 500:
 
+        day_string = rp_indexer[day]
+
         # Add reading
         reading = str(rp_lookup[day]["reading"])
-        add_passage(reading)        
+        add_passage(reading, day_string)        
         
-        day -= 1 # look back one day
+        # TODO: Fix index out of bounds for early January
+        day -= 1 # look back one day 
         verse_count += rp_lookup[day]["verse_count"]
 
     # Change FTP directory back to root
@@ -152,7 +165,6 @@ def upload_feed():
 
 
 if __name__ == '__main__':
-    
     delete_server_files()
     build_feed()
     upload_feed()
