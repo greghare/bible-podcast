@@ -5,7 +5,7 @@ Generates a podcast feed with a new reading from the ESV Bible each day
 ## 1. Installation
 
 ```
-git clone https://github.com/greghare/bible-podcast.
+git clone https://github.com/greghare/bible-podcast.git
 pip install feedgen
 pip install mutagen
 ```
