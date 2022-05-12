@@ -1,0 +1,1450 @@
+{
+    "January 1": {
+        "reading": "Genesis 1-3",
+        "verse_count": 80
+    },
+    "January 2": {
+        "reading": "Genesis 4-8",
+        "verse_count": 126
+    },
+    "January 3": {
+        "reading": "Genesis 9-11",
+        "verse_count": 93
+    },
+    "January 4": {
+        "reading": "Genesis 12-14",
+        "verse_count": 62
+    },
+    "January 5": {
+        "reading": "Genesis 15-17",
+        "verse_count": 64
+    },
+    "January 6": {
+        "reading": "Genesis 18-20",
+        "verse_count": 89
+    },
+    "January 7": {
+        "reading": "Genesis 21-23",
+        "verse_count": 78
+    },
+    "January 8": {
+        "reading": "Genesis 24-26",
+        "verse_count": 136
+    },
+    "January 9": {
+        "reading": "Genesis 27-31",
+        "verse_count": 201
+    },
+    "January 10": {
+        "reading": "Genesis 32-34",
+        "verse_count": 83
+    },
+    "January 11": {
+        "reading": "Genesis 35-37",
+        "verse_count": 108
+    },
+    "January 12": {
+        "reading": "Genesis 38-40",
+        "verse_count": 76
+    },
+    "January 13": {
+        "reading": "Genesis 41-43",
+        "verse_count": 129
+    },
+    "January 14": {
+        "reading": "Genesis 44-46",
+        "verse_count": 96
+    },
+    "January 15": {
+        "reading": "Genesis 47-49",
+        "verse_count": 86
+    },
+    "January 16": {
+        "reading": "Genesis 50, Exodus 1-4",
+        "verse_count": 126
+    },
+    "January 17": {
+        "reading": "Exodus 5-7",
+        "verse_count": 78
+    },
+    "January 18": {
+        "reading": "Exodus 8-10",
+        "verse_count": 96
+    },
+    "January 19": {
+        "reading": "Exodus 11-13",
+        "verse_count": 83
+    },
+    "January 20": {
+        "reading": "Exodus 14-16",
+        "verse_count": 94
+    },
+    "January 21": {
+        "reading": "Exodus 17-19",
+        "verse_count": 68
+    },
+    "January 22": {
+        "reading": "Exodus 20-22",
+        "verse_count": 93
+    },
+    "January 23": {
+        "reading": "Exodus 23-27",
+        "verse_count": 149
+    },
+    "January 24": {
+        "reading": "Exodus 28-30",
+        "verse_count": 127
+    },
+    "January 25": {
+        "reading": "Exodus 31-33",
+        "verse_count": 76
+    },
+    "January 26": {
+        "reading": "Exodus 34-36",
+        "verse_count": 108
+    },
+    "January 27": {
+        "reading": "Exodus 37-39",
+        "verse_count": 103
+    },
+    "January 28": {
+        "reading": "Exodus 40, Leviticus 1-2",
+        "verse_count": 71
+    },
+    "January 29": {
+        "reading": "Leviticus 3-5",
+        "verse_count": 71
+    },
+    "January 30": {
+        "reading": "Leviticus 6-10",
+        "verse_count": 148
+    },
+    "January 31": {
+        "reading": "Leviticus 11-13",
+        "verse_count": 114
+    },
+    "February 1": {
+        "reading": "Leviticus 14-16",
+        "verse_count": 124
+    },
+    "February 2": {
+        "reading": "Leviticus 17-19",
+        "verse_count": 83
+    },
+    "February 3": {
+        "reading": "Leviticus 20-22",
+        "verse_count": 84
+    },
+    "February 4": {
+        "reading": "Leviticus 23-25",
+        "verse_count": 122
+    },
+    "February 5": {
+        "reading": "Leviticus 26-27, Numbers 1",
+        "verse_count": 134
+    },
+    "February 6": {
+        "reading": "Numbers 2-6",
+        "verse_count": 192
+    },
+    "February 7": {
+        "reading": "Numbers 7-9",
+        "verse_count": 138
+    },
+    "February 8": {
+        "reading": "Numbers 10-12",
+        "verse_count": 87
+    },
+    "February 9": {
+        "reading": "Numbers 13-15",
+        "verse_count": 119
+    },
+    "February 10": {
+        "reading": "Numbers 16-18",
+        "verse_count": 95
+    },
+    "February 11": {
+        "reading": "Numbers 19-21",
+        "verse_count": 86
+    },
+    "February 12": {
+        "reading": "Numbers 22-24",
+        "verse_count": 96
+    },
+    "February 13": {
+        "reading": "Numbers 25-29",
+        "verse_count": 177
+    },
+    "February 14": {
+        "reading": "Numbers 30-32",
+        "verse_count": 112
+    },
+    "February 15": {
+        "reading": "Numbers 33-35",
+        "verse_count": 119
+    },
+    "February 16": {
+        "reading": "Numbers 36, Deuteronomy 1-2",
+        "verse_count": 96
+    },
+    "February 17": {
+        "reading": "Deuteronomy 3-5",
+        "verse_count": 111
+    },
+    "February 18": {
+        "reading": "Deuteronomy 6-8",
+        "verse_count": 71
+    },
+    "February 19": {
+        "reading": "Deuteronomy 9-11",
+        "verse_count": 83
+    },
+    "February 20": {
+        "reading": "Deuteronomy 12-16",
+        "verse_count": 124
+    },
+    "February 21": {
+        "reading": "Deuteronomy 17-19",
+        "verse_count": 63
+    },
+    "February 22": {
+        "reading": "Deuteronomy 20-22",
+        "verse_count": 73
+    },
+    "February 23": {
+        "reading": "Deuteronomy 23-25",
+        "verse_count": 66
+    },
+    "February 24": {
+        "reading": "Deuteronomy 26-28",
+        "verse_count": 113
+    },
+    "February 25": {
+        "reading": "Deuteronomy 29-31",
+        "verse_count": 79
+    },
+    "February 26": {
+        "reading": "Deuteronomy 32-34",
+        "verse_count": 93
+    },
+    "February 27": {
+        "reading": "Joshua 1-5",
+        "verse_count": 98
+    },
+    "February 28": {
+        "reading": "Joshua 6-8",
+        "verse_count": 88
+    },
+    "March 1": {
+        "reading": "Joshua 9-11",
+        "verse_count": 93
+    },
+    "March 2": {
+        "reading": "Joshua 12-14",
+        "verse_count": 72
+    },
+    "March 3": {
+        "reading": "Joshua 15-17",
+        "verse_count": 91
+    },
+    "March 4": {
+        "reading": "Joshua 18-20",
+        "verse_count": 88
+    },
+    "March 5": {
+        "reading": "Joshua 21-23",
+        "verse_count": 95
+    },
+    "March 6": {
+        "reading": "Joshua 24, Judges 1-4",
+        "verse_count": 147
+    },
+    "March 7": {
+        "reading": "Judges 5-7",
+        "verse_count": 96
+    },
+    "March 8": {
+        "reading": "Judges 8-10",
+        "verse_count": 110
+    },
+    "March 9": {
+        "reading": "Judges 11-13",
+        "verse_count": 80
+    },
+    "March 10": {
+        "reading": "Judges 14-16",
+        "verse_count": 71
+    },
+    "March 11": {
+        "reading": "Judges 17-19",
+        "verse_count": 74
+    },
+    "March 12": {
+        "reading": "Judges 20-21, Ruth 1",
+        "verse_count": 95
+    },
+    "March 13": {
+        "reading": "Ruth 2-4, 1 Samuel 1-2",
+        "verse_count": 127
+    },
+    "March 14": {
+        "reading": "1 Samuel 3-5",
+        "verse_count": 55
+    },
+    "March 15": {
+        "reading": "1 Samuel 6-8",
+        "verse_count": 60
+    },
+    "March 16": {
+        "reading": "1 Samuel 9-11",
+        "verse_count": 69
+    },
+    "March 17": {
+        "reading": "1 Samuel 12-14",
+        "verse_count": 100
+    },
+    "March 18": {
+        "reading": "1 Samuel 15-17",
+        "verse_count": 116
+    },
+    "March 19": {
+        "reading": "1 Samuel 18-20",
+        "verse_count": 96
+    },
+    "March 20": {
+        "reading": "1 Samuel 21-25",
+        "verse_count": 133
+    },
+    "March 21": {
+        "reading": "1 Samuel 26-28",
+        "verse_count": 62
+    },
+    "March 22": {
+        "reading": "1 Samuel 29-31",
+        "verse_count": 55
+    },
+    "March 23": {
+        "reading": "2 Samuel 1-3",
+        "verse_count": 98
+    },
+    "March 24": {
+        "reading": "2 Samuel 4-6",
+        "verse_count": 60
+    },
+    "March 25": {
+        "reading": "2 Samuel 7-9",
+        "verse_count": 60
+    },
+    "March 26": {
+        "reading": "2 Samuel 10-12",
+        "verse_count": 77
+    },
+    "March 27": {
+        "reading": "2 Samuel 13-17",
+        "verse_count": 161
+    },
+    "March 28": {
+        "reading": "2 Samuel 18-20",
+        "verse_count": 102
+    },
+    "March 29": {
+        "reading": "2 Samuel 21-23",
+        "verse_count": 112
+    },
+    "March 30": {
+        "reading": "2 Samuel 24, 1 Kings 1-2",
+        "verse_count": 124
+    },
+    "March 31": {
+        "reading": "1 Kings 3-5",
+        "verse_count": 80
+    },
+    "April 1": {
+        "reading": "1 Kings 6-8",
+        "verse_count": 155
+    },
+    "April 2": {
+        "reading": "1 Kings 9-11",
+        "verse_count": 100
+    },
+    "April 3": {
+        "reading": "1 Kings 12-16",
+        "verse_count": 166
+    },
+    "April 4": {
+        "reading": "1 Kings 17-19",
+        "verse_count": 91
+    },
+    "April 5": {
+        "reading": "1 Kings 20-22",
+        "verse_count": 125
+    },
+    "April 6": {
+        "reading": "2 Kings 1-3",
+        "verse_count": 70
+    },
+    "April 7": {
+        "reading": "2 Kings 4-6",
+        "verse_count": 104
+    },
+    "April 8": {
+        "reading": "2 Kings 7-9",
+        "verse_count": 86
+    },
+    "April 9": {
+        "reading": "2 Kings 10-12",
+        "verse_count": 78
+    },
+    "April 10": {
+        "reading": "2 Kings 13-17",
+        "verse_count": 153
+    },
+    "April 11": {
+        "reading": "2 Kings 18-20",
+        "verse_count": 95
+    },
+    "April 12": {
+        "reading": "2 Kings 21-23",
+        "verse_count": 83
+    },
+    "April 13": {
+        "reading": "2 Kings 24-25, 1 Chronicles 1",
+        "verse_count": 104
+    },
+    "April 14": {
+        "reading": "1 Chronicles 2-4",
+        "verse_count": 122
+    },
+    "April 15": {
+        "reading": "1 Chronicles 5-7",
+        "verse_count": 147
+    },
+    "April 16": {
+        "reading": "1 Chronicles 8-10",
+        "verse_count": 98
+    },
+    "April 17": {
+        "reading": "1 Chronicles 11-15",
+        "verse_count": 147
+    },
+    "April 18": {
+        "reading": "1 Chronicles 16-18",
+        "verse_count": 87
+    },
+    "April 19": {
+        "reading": "1 Chronicles 19-21",
+        "verse_count": 57
+    },
+    "April 20": {
+        "reading": "1 Chronicles 22-24",
+        "verse_count": 82
+    },
+    "April 21": {
+        "reading": "1 Chronicles 25-27",
+        "verse_count": 97
+    },
+    "April 22": {
+        "reading": "1 Chronicles 28-29, 2 Chronicles 1",
+        "verse_count": 68
+    },
+    "April 23": {
+        "reading": "2 Chronicles 2-4",
+        "verse_count": 57
+    },
+    "April 24": {
+        "reading": "2 Chronicles 5-9",
+        "verse_count": 127
+    },
+    "April 25": {
+        "reading": "2 Chronicles 10-12",
+        "verse_count": 58
+    },
+    "April 26": {
+        "reading": "2 Chronicles 13-15",
+        "verse_count": 56
+    },
+    "April 27": {
+        "reading": "2 Chronicles 16-18",
+        "verse_count": 67
+    },
+    "April 28": {
+        "reading": "2 Chronicles 19-21",
+        "verse_count": 68
+    },
+    "April 29": {
+        "reading": "2 Chronicles 22-24",
+        "verse_count": 60
+    },
+    "April 30": {
+        "reading": "2 Chronicles 25-27",
+        "verse_count": 60
+    },
+    "May 1": {
+        "reading": "2 Chronicles 28-32",
+        "verse_count": 144
+    },
+    "May 2": {
+        "reading": "2 Chronicles 33-35",
+        "verse_count": 85
+    },
+    "May 3": {
+        "reading": "2 Chronicles 36, Ezra 1-2",
+        "verse_count": 104
+    },
+    "May 4": {
+        "reading": "Ezra 3-5",
+        "verse_count": 54
+    },
+    "May 5": {
+        "reading": "Ezra 6-8",
+        "verse_count": 86
+    },
+    "May 6": {
+        "reading": "Ezra 9-10, Nehemiah 1",
+        "verse_count": 70
+    },
+    "May 7": {
+        "reading": "Nehemiah 2-4",
+        "verse_count": 75
+    },
+    "May 8": {
+        "reading": "Nehemiah 5-9",
+        "verse_count": 167
+    },
+    "May 9": {
+        "reading": "Nehemiah 10-12",
+        "verse_count": 122
+    },
+    "May 10": {
+        "reading": "Nehemiah 13, Esther 1-2",
+        "verse_count": 76
+    },
+    "May 11": {
+        "reading": "Esther 3-5",
+        "verse_count": 46
+    },
+    "May 12": {
+        "reading": "Esther 6-8",
+        "verse_count": 41
+    },
+    "May 13": {
+        "reading": "Esther 9-10, Job 1",
+        "verse_count": 57
+    },
+    "May 14": {
+        "reading": "Job 2-4",
+        "verse_count": 60
+    },
+    "May 15": {
+        "reading": "Job 5-9",
+        "verse_count": 135
+    },
+    "May 16": {
+        "reading": "Job 10-12",
+        "verse_count": 67
+    },
+    "May 17": {
+        "reading": "Job 13-15",
+        "verse_count": 85
+    },
+    "May 18": {
+        "reading": "Job 16-18",
+        "verse_count": 59
+    },
+    "May 19": {
+        "reading": "Job 19-21",
+        "verse_count": 92
+    },
+    "May 20": {
+        "reading": "Job 22-24",
+        "verse_count": 72
+    },
+    "May 21": {
+        "reading": "Job 25-27",
+        "verse_count": 43
+    },
+    "May 22": {
+        "reading": "Job 28-32",
+        "verse_count": 146
+    },
+    "May 23": {
+        "reading": "Job 33-35",
+        "verse_count": 86
+    },
+    "May 24": {
+        "reading": "Job 36-38",
+        "verse_count": 98
+    },
+    "May 25": {
+        "reading": "Job 39-41",
+        "verse_count": 88
+    },
+    "May 26": {
+        "reading": "Job 42, Psalm 1-2",
+        "verse_count": 35
+    },
+    "May 27": {
+        "reading": "Psalm 3-5",
+        "verse_count": 28
+    },
+    "May 28": {
+        "reading": "Psalm 6-8",
+        "verse_count": 36
+    },
+    "May 29": {
+        "reading": "Psalm 9-13",
+        "verse_count": 59
+    },
+    "May 30": {
+        "reading": "Psalm 14-16",
+        "verse_count": 23
+    },
+    "May 31": {
+        "reading": "Psalm 17-19",
+        "verse_count": 79
+    },
+    "June 1": {
+        "reading": "Psalm 20-22",
+        "verse_count": 53
+    },
+    "June 2": {
+        "reading": "Psalm 23-25",
+        "verse_count": 38
+    },
+    "June 3": {
+        "reading": "Psalm 26-28",
+        "verse_count": 35
+    },
+    "June 4": {
+        "reading": "Psalm 29-31",
+        "verse_count": 47
+    },
+    "June 5": {
+        "reading": "Psalm 32-36",
+        "verse_count": 95
+    },
+    "June 6": {
+        "reading": "Psalm 37-39",
+        "verse_count": 75
+    },
+    "June 7": {
+        "reading": "Psalm 40-42",
+        "verse_count": 41
+    },
+    "June 8": {
+        "reading": "Psalm 43-45",
+        "verse_count": 48
+    },
+    "June 9": {
+        "reading": "Psalm 46-48",
+        "verse_count": 34
+    },
+    "June 10": {
+        "reading": "Psalm 49-51",
+        "verse_count": 62
+    },
+    "June 11": {
+        "reading": "Psalm 52-54",
+        "verse_count": 22
+    },
+    "June 12": {
+        "reading": "Psalm 55-59",
+        "verse_count": 75
+    },
+    "June 13": {
+        "reading": "Psalm 60-62",
+        "verse_count": 32
+    },
+    "June 14": {
+        "reading": "Psalm 63-65",
+        "verse_count": 34
+    },
+    "June 15": {
+        "reading": "Psalm 66-68",
+        "verse_count": 62
+    },
+    "June 16": {
+        "reading": "Psalm 69-71",
+        "verse_count": 65
+    },
+    "June 17": {
+        "reading": "Psalm 72-74",
+        "verse_count": 71
+    },
+    "June 18": {
+        "reading": "Psalm 75-77",
+        "verse_count": 42
+    },
+    "June 19": {
+        "reading": "Psalm 78-82",
+        "verse_count": 128
+    },
+    "June 20": {
+        "reading": "Psalm 83-85",
+        "verse_count": 43
+    },
+    "June 21": {
+        "reading": "Psalm 86-88",
+        "verse_count": 42
+    },
+    "June 22": {
+        "reading": "Psalm 89-91",
+        "verse_count": 85
+    },
+    "June 23": {
+        "reading": "Psalm 92-94",
+        "verse_count": 43
+    },
+    "June 24": {
+        "reading": "Psalm 95-97",
+        "verse_count": 36
+    },
+    "June 25": {
+        "reading": "Psalm 98-100",
+        "verse_count": 23
+    },
+    "June 26": {
+        "reading": "Psalm 101-105",
+        "verse_count": 138
+    },
+    "June 27": {
+        "reading": "Psalm 106-108",
+        "verse_count": 104
+    },
+    "June 28": {
+        "reading": "Psalm 109-111",
+        "verse_count": 48
+    },
+    "June 29": {
+        "reading": "Psalm 112-114",
+        "verse_count": 27
+    },
+    "June 30": {
+        "reading": "Psalm 115-117",
+        "verse_count": 39
+    },
+    "July 1": {
+        "reading": "Psalm 118-120",
+        "verse_count": 212
+    },
+    "July 2": {
+        "reading": "Psalm 121-123",
+        "verse_count": 21
+    },
+    "July 3": {
+        "reading": "Psalm 124-128",
+        "verse_count": 30
+    },
+    "July 4": {
+        "reading": "Psalm 129-131",
+        "verse_count": 19
+    },
+    "July 5": {
+        "reading": "Psalm 132-134",
+        "verse_count": 24
+    },
+    "July 6": {
+        "reading": "Psalm 135-137",
+        "verse_count": 56
+    },
+    "July 7": {
+        "reading": "Psalm 138-140",
+        "verse_count": 45
+    },
+    "July 8": {
+        "reading": "Psalm 141-143",
+        "verse_count": 29
+    },
+    "July 9": {
+        "reading": "Psalm 144-146",
+        "verse_count": 46
+    },
+    "July 10": {
+        "reading": "Psalm 147-150, Proverbs 1",
+        "verse_count": 82
+    },
+    "July 11": {
+        "reading": "Proverbs 2-4",
+        "verse_count": 84
+    },
+    "July 12": {
+        "reading": "Proverbs 5-7",
+        "verse_count": 85
+    },
+    "July 13": {
+        "reading": "Proverbs 8-10",
+        "verse_count": 86
+    },
+    "July 14": {
+        "reading": "Proverbs 11-13",
+        "verse_count": 84
+    },
+    "July 15": {
+        "reading": "Proverbs 14-16",
+        "verse_count": 101
+    },
+    "July 16": {
+        "reading": "Proverbs 17-19",
+        "verse_count": 81
+    },
+    "July 17": {
+        "reading": "Proverbs 20-24",
+        "verse_count": 159
+    },
+    "July 18": {
+        "reading": "Proverbs 25-27",
+        "verse_count": 83
+    },
+    "July 19": {
+        "reading": "Proverbs 28-30",
+        "verse_count": 88
+    },
+    "July 20": {
+        "reading": "Proverbs 31, Ecclesiastes 1-2",
+        "verse_count": 75
+    },
+    "July 21": {
+        "reading": "Ecclesiastes 3-5",
+        "verse_count": 58
+    },
+    "July 22": {
+        "reading": "Ecclesiastes 6-8",
+        "verse_count": 58
+    },
+    "July 23": {
+        "reading": "Ecclesiastes 9-11",
+        "verse_count": 48
+    },
+    "July 24": {
+        "reading": "Ecclesiastes 12, Song Of Solomon 1-4",
+        "verse_count": 75
+    },
+    "July 25": {
+        "reading": "Song Of Solomon 5-7",
+        "verse_count": 42
+    },
+    "July 26": {
+        "reading": "Song Of Solomon 8, Isaiah 1-2",
+        "verse_count": 67
+    },
+    "July 27": {
+        "reading": "Isaiah 3-5",
+        "verse_count": 62
+    },
+    "July 28": {
+        "reading": "Isaiah 6-8",
+        "verse_count": 60
+    },
+    "July 29": {
+        "reading": "Isaiah 9-11",
+        "verse_count": 71
+    },
+    "July 30": {
+        "reading": "Isaiah 12-14",
+        "verse_count": 60
+    },
+    "July 31": {
+        "reading": "Isaiah 15-19",
+        "verse_count": 69
+    },
+    "August 1": {
+        "reading": "Isaiah 20-22",
+        "verse_count": 48
+    },
+    "August 2": {
+        "reading": "Isaiah 23-25",
+        "verse_count": 53
+    },
+    "August 3": {
+        "reading": "Isaiah 26-28",
+        "verse_count": 63
+    },
+    "August 4": {
+        "reading": "Isaiah 29-31",
+        "verse_count": 66
+    },
+    "August 5": {
+        "reading": "Isaiah 32-34",
+        "verse_count": 61
+    },
+    "August 6": {
+        "reading": "Isaiah 35-37",
+        "verse_count": 70
+    },
+    "August 7": {
+        "reading": "Isaiah 38-42",
+        "verse_count": 115
+    },
+    "August 8": {
+        "reading": "Isaiah 43-45",
+        "verse_count": 81
+    },
+    "August 9": {
+        "reading": "Isaiah 46-48",
+        "verse_count": 50
+    },
+    "August 10": {
+        "reading": "Isaiah 49-51",
+        "verse_count": 60
+    },
+    "August 11": {
+        "reading": "Isaiah 52-54",
+        "verse_count": 44
+    },
+    "August 12": {
+        "reading": "Isaiah 55-57",
+        "verse_count": 46
+    },
+    "August 13": {
+        "reading": "Isaiah 58-60",
+        "verse_count": 57
+    },
+    "August 14": {
+        "reading": "Isaiah 61-65",
+        "verse_count": 79
+    },
+    "August 15": {
+        "reading": "Isaiah 66, Jeremiah 1-2",
+        "verse_count": 80
+    },
+    "August 16": {
+        "reading": "Jeremiah 3-5",
+        "verse_count": 87
+    },
+    "August 17": {
+        "reading": "Jeremiah 6-8",
+        "verse_count": 86
+    },
+    "August 18": {
+        "reading": "Jeremiah 9-11",
+        "verse_count": 74
+    },
+    "August 19": {
+        "reading": "Jeremiah 12-14",
+        "verse_count": 66
+    },
+    "August 20": {
+        "reading": "Jeremiah 15-17",
+        "verse_count": 69
+    },
+    "August 21": {
+        "reading": "Jeremiah 18-22",
+        "verse_count": 100
+    },
+    "August 22": {
+        "reading": "Jeremiah 23-25",
+        "verse_count": 88
+    },
+    "August 23": {
+        "reading": "Jeremiah 26-28",
+        "verse_count": 63
+    },
+    "August 24": {
+        "reading": "Jeremiah 29-31",
+        "verse_count": 96
+    },
+    "August 25": {
+        "reading": "Jeremiah 32-34",
+        "verse_count": 92
+    },
+    "August 26": {
+        "reading": "Jeremiah 35-37",
+        "verse_count": 72
+    },
+    "August 27": {
+        "reading": "Jeremiah 38-40",
+        "verse_count": 62
+    },
+    "August 28": {
+        "reading": "Jeremiah 41-45",
+        "verse_count": 88
+    },
+    "August 29": {
+        "reading": "Jeremiah 46-48",
+        "verse_count": 82
+    },
+    "August 30": {
+        "reading": "Jeremiah 49-51",
+        "verse_count": 149
+    },
+    "August 31": {
+        "reading": "Jeremiah 52, Lamentations 1-2",
+        "verse_count": 78
+    },
+    "September 1": {
+        "reading": "Lamentations 3-5",
+        "verse_count": 110
+    },
+    "September 2": {
+        "reading": "Ezekiel 1-3",
+        "verse_count": 65
+    },
+    "September 3": {
+        "reading": "Ezekiel 4-6",
+        "verse_count": 48
+    },
+    "September 4": {
+        "reading": "Ezekiel 7-11",
+        "verse_count": 103
+    },
+    "September 5": {
+        "reading": "Ezekiel 12-14",
+        "verse_count": 74
+    },
+    "September 6": {
+        "reading": "Ezekiel 15-17",
+        "verse_count": 95
+    },
+    "September 7": {
+        "reading": "Ezekiel 18-20",
+        "verse_count": 95
+    },
+    "September 8": {
+        "reading": "Ezekiel 21-23",
+        "verse_count": 112
+    },
+    "September 9": {
+        "reading": "Ezekiel 24-26",
+        "verse_count": 65
+    },
+    "September 10": {
+        "reading": "Ezekiel 27-29",
+        "verse_count": 83
+    },
+    "September 11": {
+        "reading": "Ezekiel 30-34",
+        "verse_count": 140
+    },
+    "September 12": {
+        "reading": "Ezekiel 35-37",
+        "verse_count": 81
+    },
+    "September 13": {
+        "reading": "Ezekiel 38-40",
+        "verse_count": 101
+    },
+    "September 14": {
+        "reading": "Ezekiel 41-43",
+        "verse_count": 73
+    },
+    "September 15": {
+        "reading": "Ezekiel 44-46",
+        "verse_count": 80
+    },
+    "September 16": {
+        "reading": "Ezekiel 47-48, Daniel 1",
+        "verse_count": 79
+    },
+    "September 17": {
+        "reading": "Daniel 2-4",
+        "verse_count": 116
+    },
+    "September 18": {
+        "reading": "Daniel 5-9",
+        "verse_count": 141
+    },
+    "September 19": {
+        "reading": "Daniel 10-12",
+        "verse_count": 79
+    },
+    "September 20": {
+        "reading": "Hosea 1-3",
+        "verse_count": 39
+    },
+    "September 21": {
+        "reading": "Hosea 4-6",
+        "verse_count": 45
+    },
+    "September 22": {
+        "reading": "Hosea 7-9",
+        "verse_count": 47
+    },
+    "September 23": {
+        "reading": "Hosea 10-12",
+        "verse_count": 41
+    },
+    "September 24": {
+        "reading": "Hosea 13-14, Joel 1",
+        "verse_count": 45
+    },
+    "September 25": {
+        "reading": "Joel 2-3, Amos 1-3",
+        "verse_count": 99
+    },
+    "September 26": {
+        "reading": "Amos 4-6",
+        "verse_count": 54
+    },
+    "September 27": {
+        "reading": "Amos 7-9",
+        "verse_count": 46
+    },
+    "September 28": {
+        "reading": "Obadiah 1, Jonah 1-2",
+        "verse_count": 48
+    },
+    "September 29": {
+        "reading": "Jonah 3-4, Micah 1",
+        "verse_count": 37
+    },
+    "September 30": {
+        "reading": "Micah 2-4",
+        "verse_count": 38
+    },
+    "October 1": {
+        "reading": "Micah 5-7",
+        "verse_count": 51
+    },
+    "October 2": {
+        "reading": "Nahum 1-3, Habakkuk 1-2",
+        "verse_count": 84
+    },
+    "October 3": {
+        "reading": "Habakkuk 3, Zephaniah 1-2",
+        "verse_count": 52
+    },
+    "October 4": {
+        "reading": "Zephaniah 3, Haggai 1-2",
+        "verse_count": 58
+    },
+    "October 5": {
+        "reading": "Zechariah 1-3",
+        "verse_count": 44
+    },
+    "October 6": {
+        "reading": "Zechariah 4-6",
+        "verse_count": 40
+    },
+    "October 7": {
+        "reading": "Zechariah 7-9",
+        "verse_count": 54
+    },
+    "October 8": {
+        "reading": "Zechariah 10-12",
+        "verse_count": 43
+    },
+    "October 9": {
+        "reading": "Zechariah 13-14, Malachi 1-3",
+        "verse_count": 79
+    },
+    "October 10": {
+        "reading": "Malachi 4, Matthew 1-2",
+        "verse_count": 54
+    },
+    "October 11": {
+        "reading": "Matthew 3-5",
+        "verse_count": 90
+    },
+    "October 12": {
+        "reading": "Matthew 6-8",
+        "verse_count": 97
+    },
+    "October 13": {
+        "reading": "Matthew 9-11",
+        "verse_count": 110
+    },
+    "October 14": {
+        "reading": "Matthew 12-14",
+        "verse_count": 144
+    },
+    "October 15": {
+        "reading": "Matthew 15-17",
+        "verse_count": 94
+    },
+    "October 16": {
+        "reading": "Matthew 18-22",
+        "verse_count": 191
+    },
+    "October 17": {
+        "reading": "Matthew 23-25",
+        "verse_count": 136
+    },
+    "October 18": {
+        "reading": "Matthew 26-28",
+        "verse_count": 161
+    },
+    "October 19": {
+        "reading": "Mark 1-3",
+        "verse_count": 108
+    },
+    "October 20": {
+        "reading": "Mark 4-6",
+        "verse_count": 140
+    },
+    "October 21": {
+        "reading": "Mark 7-9",
+        "verse_count": 125
+    },
+    "October 22": {
+        "reading": "Mark 10-12",
+        "verse_count": 129
+    },
+    "October 23": {
+        "reading": "Mark 13-16, Luke 1",
+        "verse_count": 256
+    },
+    "October 24": {
+        "reading": "Luke 2-4",
+        "verse_count": 134
+    },
+    "October 25": {
+        "reading": "Luke 5-7",
+        "verse_count": 138
+    },
+    "October 26": {
+        "reading": "Luke 8-10",
+        "verse_count": 160
+    },
+    "October 27": {
+        "reading": "Luke 11-13",
+        "verse_count": 148
+    },
+    "October 28": {
+        "reading": "Luke 14-16",
+        "verse_count": 98
+    },
+    "October 29": {
+        "reading": "Luke 17-19",
+        "verse_count": 128
+    },
+    "October 30": {
+        "reading": "Luke 20-24",
+        "verse_count": 265
+    },
+    "October 31": {
+        "reading": "John 1-3",
+        "verse_count": 112
+    },
+    "November 1": {
+        "reading": "John 4-6",
+        "verse_count": 172
+    },
+    "November 2": {
+        "reading": "John 7-9",
+        "verse_count": 153
+    },
+    "November 3": {
+        "reading": "John 10-12",
+        "verse_count": 149
+    },
+    "November 4": {
+        "reading": "John 13-15",
+        "verse_count": 96
+    },
+    "November 5": {
+        "reading": "John 16-18",
+        "verse_count": 99
+    },
+    "November 6": {
+        "reading": "John 19-21, Acts 1-2",
+        "verse_count": 171
+    },
+    "November 7": {
+        "reading": "Acts 3-5",
+        "verse_count": 105
+    },
+    "November 8": {
+        "reading": "Acts 6-8",
+        "verse_count": 115
+    },
+    "November 9": {
+        "reading": "Acts 9-11",
+        "verse_count": 121
+    },
+    "November 10": {
+        "reading": "Acts 12-14",
+        "verse_count": 105
+    },
+    "November 11": {
+        "reading": "Acts 15-17",
+        "verse_count": 115
+    },
+    "November 12": {
+        "reading": "Acts 18-20",
+        "verse_count": 107
+    },
+    "November 13": {
+        "reading": "Acts 21-25",
+        "verse_count": 159
+    },
+    "November 14": {
+        "reading": "Acts 26-28",
+        "verse_count": 107
+    },
+    "November 15": {
+        "reading": "Romans 1-3",
+        "verse_count": 92
+    },
+    "November 16": {
+        "reading": "Romans 4-6",
+        "verse_count": 69
+    },
+    "November 17": {
+        "reading": "Romans 7-9",
+        "verse_count": 97
+    },
+    "November 18": {
+        "reading": "Romans 10-12",
+        "verse_count": 78
+    },
+    "November 19": {
+        "reading": "Romans 13-15",
+        "verse_count": 70
+    },
+    "November 20": {
+        "reading": "Romans 16, 1 Corinthians 1-4",
+        "verse_count": 118
+    },
+    "November 21": {
+        "reading": "1 Corinthians 5-7",
+        "verse_count": 73
+    },
+    "November 22": {
+        "reading": "1 Corinthians 8-10",
+        "verse_count": 73
+    },
+    "November 23": {
+        "reading": "1 Corinthians 11-13",
+        "verse_count": 78
+    },
+    "November 24": {
+        "reading": "1 Corinthians 14-16",
+        "verse_count": 122
+    },
+    "November 25": {
+        "reading": "2 Corinthians 1-3",
+        "verse_count": 59
+    },
+    "November 26": {
+        "reading": "2 Corinthians 4-6",
+        "verse_count": 57
+    },
+    "November 27": {
+        "reading": "2 Corinthians 7-11",
+        "verse_count": 106
+    },
+    "November 28": {
+        "reading": "2 Corinthians 12-13, Galatians 1",
+        "verse_count": 59
+    },
+    "November 29": {
+        "reading": "Galatians 2-4",
+        "verse_count": 81
+    },
+    "November 30": {
+        "reading": "Galatians 5-6, Ephesians 1",
+        "verse_count": 67
+    },
+    "December 1": {
+        "reading": "Ephesians 2-4",
+        "verse_count": 75
+    },
+    "December 2": {
+        "reading": "Ephesians 5-6, Philippians 1",
+        "verse_count": 87
+    },
+    "December 3": {
+        "reading": "Philippians 2-4",
+        "verse_count": 74
+    },
+    "December 4": {
+        "reading": "Colossians 1-4, 1 Thessalonians 1",
+        "verse_count": 105
+    },
+    "December 5": {
+        "reading": "1 Thessalonians 2-4",
+        "verse_count": 51
+    },
+    "December 6": {
+        "reading": "1 Thessalonians 5, 2 Thessalonians 1-2",
+        "verse_count": 57
+    },
+    "December 7": {
+        "reading": "2 Thessalonians 3, 1 Timothy 1-2",
+        "verse_count": 53
+    },
+    "December 8": {
+        "reading": "1 Timothy 3-5",
+        "verse_count": 57
+    },
+    "December 9": {
+        "reading": "1 Timothy 6, 2 Timothy 1-2",
+        "verse_count": 65
+    },
+    "December 10": {
+        "reading": "2 Timothy 3-4, Titus 1",
+        "verse_count": 55
+    },
+    "December 11": {
+        "reading": "Titus 2-3, Philemon 1, Hebrews 1-2",
+        "verse_count": 87
+    },
+    "December 12": {
+        "reading": "Hebrews 3-5",
+        "verse_count": 49
+    },
+    "December 13": {
+        "reading": "Hebrews 6-8",
+        "verse_count": 61
+    },
+    "December 14": {
+        "reading": "Hebrews 9-11",
+        "verse_count": 107
+    },
+    "December 15": {
+        "reading": "Hebrews 12-13, James 1",
+        "verse_count": 81
+    },
+    "December 16": {
+        "reading": "James 2-4",
+        "verse_count": 61
+    },
+    "December 17": {
+        "reading": "James 5, 1 Peter 1-2",
+        "verse_count": 70
+    },
+    "December 18": {
+        "reading": "1 Peter 3-5, 2 Peter 1-2",
+        "verse_count": 98
+    },
+    "December 19": {
+        "reading": "2 Peter 3, 1 John 1-2",
+        "verse_count": 57
+    },
+    "December 20": {
+        "reading": "1 John 3-5",
+        "verse_count": 66
+    },
+    "December 21": {
+        "reading": "2 John 1, 3 John 1, Jude 1",
+        "verse_count": 52
+    },
+    "December 22": {
+        "reading": "Revelation 1-3",
+        "verse_count": 71
+    },
+    "December 23": {
+        "reading": "Revelation 4-6",
+        "verse_count": 42
+    },
+    "December 24": {
+        "reading": "Revelation 7-9",
+        "verse_count": 51
+    },
+    "December 25": {
+        "reading": "Revelation 10-14",
+        "verse_count": 85
+    },
+    "December 26": {
+        "reading": "Revelation 15-17",
+        "verse_count": 47
+    },
+    "December 27": {
+        "reading": "Revelation 18-20",
+        "verse_count": 60
+    },
+    "December 28": {
+        "reading": "Revelation 21-22",
+        "verse_count": 48
+    }
+}

@@ -1,0 +1,8 @@
+[ftp-creds]
+server = yourServer
+user_id = yourUsername
+password = yourPassword
+
+[esv-api]
+api_key = yourApiKey
+api_url = https://api.esv.org/v3/passage/audio/
