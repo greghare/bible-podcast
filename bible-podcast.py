@@ -119,7 +119,8 @@ def build_feed():
     # Clean local media folder
     files = glob.glob(LOCAL_MEDIA_FOLDER + '/*')
     for f in files:
-        os.remove(f)    
+        if f != '.' and f != '..' and ".mp3" in f:       
+            os.remove(f)    
 
     # Open the reading plan
     with open('reading_plan.json') as data_file:    
