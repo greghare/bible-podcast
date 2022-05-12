@@ -19,6 +19,7 @@ Inside this directory create a directory called "media"
 
 - Create an API account and an application at https://api.esv.org/account/create-application/ (must wait for approval)
 - Create an ftp user on your web server that maps to the parent directory (e.g. "bible-podcast")
+  - WARNING!!! - I recommend creating the FTP user to map to it's own directory. This script deletes files to cleanup old media, and while there are checks to make sure it's deleting only MP3 files, I give no warranties of deleted files outside of the media directory if you change the configured media directories.
 - Copy main.config.example to main.config and edit it to include your ftp server, user id, password, and API key
 - Optional: Configure a cronjob to run bible-podcast.py once a day
 
